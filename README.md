@@ -1,6 +1,6 @@
-=
+
 Prime tester class
-=
+==================
 
 This class check if number is prime.
 
