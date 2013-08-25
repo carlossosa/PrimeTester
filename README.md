@@ -1,0 +1,4 @@
+PrimeTester
+===========
+
+Prime tester class
